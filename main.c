@@ -1,3 +1,4 @@
+// find the sum of the series 1!/1 + 2!/2 + 3!/3 + 4!/4 + 5!/5
 int main() {
   int num = 1, sum = 0, fact;
 
